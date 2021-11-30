@@ -1,1 +1,2 @@
 # bicep-templates
+[Blog url]('')
